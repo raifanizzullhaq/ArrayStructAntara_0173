@@ -7,3 +7,6 @@ struct Hewan
     string jenis;
     string habitat;
 };
+
+int main()
+{
