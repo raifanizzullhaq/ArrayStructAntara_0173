@@ -18,3 +18,5 @@ int main()
     cout << "Isikan jenis : ";
  cin >> hewan.jenis;
     cout << "Isikan habitat : ";
+    cin >> hewan.habitat;
+    cout << endl;
