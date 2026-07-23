@@ -12,3 +12,5 @@ int main()
 {
      //deklarasi variabel struct
     Hewan hewan ;
+    //mengisi data
+    cout << "Isikan nama : ";
