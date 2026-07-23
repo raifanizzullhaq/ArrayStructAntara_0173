@@ -14,3 +14,5 @@ int main()
     Hewan hewan ;
     //mengisi data
     cout << "Isikan nama : ";
+    cin >> hewan.nama;
+    cout << "Isikan jenis : ";
