@@ -20,3 +20,5 @@ int main()
     cout << "Isikan habitat : ";
     cin >> hewan.habitat;
     cout << endl;
+    cout << "Data Tampil" << endl;
+    cout << "Nama : " << hewan.nama << endl;
