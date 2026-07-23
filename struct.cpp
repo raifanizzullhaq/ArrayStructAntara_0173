@@ -10,3 +10,5 @@ struct Hewan
 
 int main()
 {
+     //deklarasi variabel struct
+    Hewan hewan ;
