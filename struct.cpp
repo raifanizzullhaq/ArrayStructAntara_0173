@@ -22,3 +22,6 @@ int main()
     cout << endl;
     cout << "Data Tampil" << endl;
     cout << "Nama : " << hewan.nama << endl;
+    cout << "Jenis : " << hewan.jenis << endl;
+    cout << "Habitat : " << hewan.habitat << endl;
+}
