@@ -16,3 +16,5 @@ int main()
     cout << "Isikan nama : ";
     cin >> hewan.nama;
     cout << "Isikan jenis : ";
+ cin >> hewan.jenis;
+    cout << "Isikan habitat : ";
